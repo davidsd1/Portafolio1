@@ -1,0 +1,36 @@
+{
+    "menu": {
+        "item2": "Sobre mí",
+        "item3": "Habilidades",
+        "item4": "Contacto"
+    },
+
+    "home": {
+        "home_text-1": "Hola, Soy",
+        "home_text-3": "Tecnico en Desarrollo de Software",
+        "parrafo-info": "Soy estudiante de un técnico en Desarrollo de Software, enfocado en aprender y aplicar habilidades prácticas en programación y diseño. Este portafolio es parte de uno de los proyectos principales del técnico, creado con el objetivo de mostrar mis capacidades.",
+        "contact_button": "Contacto"
+    },
+
+    "sobre-mi": {
+        "title": "Sobre mí",
+        "texto_sobreMi": "Actualmente soy estudiante de un técnico en Desarrollo de Software, donde he adquirido conocimientos en bases de datos, lógica de programación, desarrollo, inteligencia artificial y lenguajes de programación. También complemento mi formación con un curso de inglés para fortalecer mis habilidades comunicativas en el ámbito profesional y técnico.<br>Mi objetivo es aplicar lo aprendido para desarrollar soluciones tecnológicas innovadoras.</span>"
+    },
+
+    "habilidades": {
+        "title": "Habilidades"
+    },
+
+    "formacion": {
+        "title": "Formación",
+        "formacion1": "Colegio Los Andes",
+        "tiempo-formacion1": "2023 - Finalizado",
+        "formacion2": "Tecnico en Desarrollo de Software",
+        "tiempo-formacion2": "2024 - En curso"
+    },
+
+    "contacto": {
+        "title": "Contacto"
+
+    }
+}
